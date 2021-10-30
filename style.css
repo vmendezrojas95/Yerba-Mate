@@ -69,6 +69,11 @@ ul{
     padding: 20px 0;
     
 }
+.titulo-contacto{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    margin-left: 120px;
+}
 
 .nombre h1{
     font-size: 18px;
